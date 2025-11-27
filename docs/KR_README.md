@@ -1,4 +1,4 @@
-[EN](/README.md) [KR](/docs/KR_README.md)
+###### Other Language: [EN](/README.md) [KR](/docs/KR_README.md)
 ---
 # ⏳ 모래 가루 (SandPowder)
 `모래 가루`는 파이썬 서버 라이브러리입니다.
