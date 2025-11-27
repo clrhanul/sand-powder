@@ -17,7 +17,7 @@ SandPowder was created for the building [`clrhanul`](https://github.com/clrhanul
 ## History
  Version |    Date    | Content
 :-------:|:----------:|:-
-`v0.0.0` | 2025-11-27 | Start development
+`v0.0.0` | 2025-11-27 | Start development. Take the Structure of Repository.
 
 
 ## Repository Description
