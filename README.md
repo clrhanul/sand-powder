@@ -18,3 +18,11 @@ SandPowder was created for the building [`clrhanul`](https://github.com/clrhanul
 Version | Date | Content
 :-----:|:----------:|:-
 `v0.0.0` | 2025-11-27 | Start development
+
+
+## Repository Description
+### Branch
+   Branch  | Description
+:---------:| :----------
+**`main`** | Branch for Publish.
+ **`dev`** | Branch for Develop. When Finished to Publish, Copy to `main`.
