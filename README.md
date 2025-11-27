@@ -26,7 +26,7 @@ SandPowder was created for the building [`clrhanul`](https://github.com/clrhanul
 :---------:| :----------
 **`main`** | Branch for Publish.
  **`dev`** | Branch for Develop. When Finished to Publish, Copy to `main`.
-**`docs`** | Branch for Write Document.
+~~**`docs`**~~ | ~~Branch for Write Document.~~ Now, when you edit docs only, push to `main` directly.
 
 
 😊
