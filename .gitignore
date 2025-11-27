@@ -1,3 +1,17 @@
+# virtual environment
+## venv
+.venv/
+
+
+# dist
+dist/*
+
+
+# test
 test
 *.test
 test/*
+
+
+# ignore gitignore
+!.gitignore
