@@ -15,8 +15,8 @@ SandPowder was created for the building [`clrhanul`](https://github.com/clrhanul
 - [ ] Implementing `HTTP/3`.
 
 ## History
-Version | Date | Content
-:-----:|:----------:|:-
+ Version |    Date    | Content
+:-------:|:----------:|:-
 `v0.0.0` | 2025-11-27 | Start development
 
 
@@ -26,3 +26,4 @@ Version | Date | Content
 :---------:| :----------
 **`main`** | Branch for Publish.
  **`dev`** | Branch for Develop. When Finished to Publish, Copy to `main`.
+**`docs`** | Branch for Write Document.
