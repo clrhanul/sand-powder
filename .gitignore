@@ -14,4 +14,4 @@ test/*
 
 
 # ignore gitignore
-!.gitkeep
+!.gitignore
