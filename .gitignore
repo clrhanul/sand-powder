@@ -8,10 +8,8 @@ release/*
 
 
 # test
-test
 *.test
 test/*
-
 
 # ignore gitkeep
 !.gitkeep
